@@ -18,3 +18,4 @@ pip>=10.0
 annoy
 lightgbm
 xgboost
+mistune>=2.0.3 # not directly required, pinned by Snyk to avoid a vulnerability
