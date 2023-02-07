@@ -5,3 +5,4 @@ lightgbm
 catboost
 tensorflow==2.1.0
 tensorflow-io==0.12.0
+numpy>=1.22.2 # not directly required, pinned by Snyk to avoid a vulnerability
