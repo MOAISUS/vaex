@@ -5,7 +5,7 @@ astropy
 psutil>=1.2.1
 numpy>=1.13
 aplus
-tornado>=5.0
+tornado>=6.4.1
 futures==2.2.0
 cachetools
 progressbar2
@@ -18,3 +18,4 @@ pip>=10.0
 annoy
 lightgbm
 xgboost
+jupyter-server>=2.14.1 # not directly required, pinned by Snyk to avoid a vulnerability
