@@ -5,7 +5,7 @@ astropy
 psutil>=1.2.1
 numpy>=1.13
 aplus
-tornado>=5.0
+tornado>=6.4.2
 futures==2.2.0
 cachetools
 progressbar2
