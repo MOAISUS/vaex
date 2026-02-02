@@ -10,7 +10,7 @@ futures==2.2.0
 cachetools
 progressbar2
 jupyter
-nbconvert>=5.1.1
+nbconvert>=7.17.0
 nbsphinx>=0.2.18
 ipython
 jupyter-sphinx>=0.1.2
